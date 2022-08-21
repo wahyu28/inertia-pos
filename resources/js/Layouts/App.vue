@@ -19,7 +19,7 @@
                 <!-- end content -->
 
                 <footer class="c-footer">
-                    <div><strong>APLIKASI KASIR</strong> &copy; 2022 - wahyupratama.my.id</div>
+                    <div><strong>APLIKASI KASIR</strong> &copy; 2022 - wahyupratama.my.ids</div>
                 </footer>
             </div>
         </div>
